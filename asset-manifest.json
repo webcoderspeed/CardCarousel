@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CardCarousel/static/css/main.23b21c4d.chunk.css",
+    "main.js": "/CardCarousel/static/js/main.fc6020ff.chunk.js",
+    "main.js.map": "/CardCarousel/static/js/main.fc6020ff.chunk.js.map",
+    "runtime-main.js": "/CardCarousel/static/js/runtime-main.6a4e2c4f.js",
+    "runtime-main.js.map": "/CardCarousel/static/js/runtime-main.6a4e2c4f.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/CardCarousel/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.612d9c92.chunk.js": "/CardCarousel/static/js/2.612d9c92.chunk.js",
+    "static/js/2.612d9c92.chunk.js.map": "/CardCarousel/static/js/2.612d9c92.chunk.js.map",
+    "index.html": "/CardCarousel/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/CardCarousel/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.23b21c4d.chunk.css.map": "/CardCarousel/static/css/main.23b21c4d.chunk.css.map",
+    "static/js/2.612d9c92.chunk.js.LICENSE.txt": "/CardCarousel/static/js/2.612d9c92.chunk.js.LICENSE.txt",
+    "static/media/testbook.jpeg": "/CardCarousel/static/media/testbook.f55469bc.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a4e2c4f.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.612d9c92.chunk.js",
+    "static/css/main.23b21c4d.chunk.css",
+    "static/js/main.fc6020ff.chunk.js"
+  ]
+}
