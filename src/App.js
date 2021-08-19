@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import CardCarousel from './components/CardCarousel';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='bg-gray-100 p-4'>
+      <div className='flex justify-center md:justify-start gap-5 items-center'>
+          <div className='flex items-center justify-center gap-2 bg-red-600 opacity-80 rounded-md px-2 py-1'>
+            <span className='bg-white p-1 rounded-full'></span>
+            <span className='text-white font-bold md:text-2xl uppercase'>Live</span>
+          </div>
+          <h1 className='font-bold md:text-2xl'>Upcoming Live Coaching</h1>
+        </div>
+      <CardCarousel />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
